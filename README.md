@@ -25,8 +25,8 @@ Vengo del mundo del marketing, donde aprendí la importancia del trabajo en equi
 | Tecnología |  |
 |---|---|
 | 🐍 Python  |
-| 📊 Data Science |  |
-| 🐙 Git & GitHub |  |
+| 📊 Data Science |
+| 🐙 Git & GitHub |
 
 ---
 
