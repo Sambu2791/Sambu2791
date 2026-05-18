@@ -1,28 +1,28 @@
 <!-- Encabezado -->
 <div align="center">
   <h1>🎵 Andres Samboni</h1>
-  <p><em>Músico · Especialista en Marketing · Aprendiz de Python & Data Science</em></p>
+  <p><em>Music Manager · Marketing Specialist · Python & Data Science Apprentice</em></p>
 
-  ![Status](https://img.shields.io/badge/Estado-Aprendiendo-3fb950?style=flat-square)
-  ![Formación](https://img.shields.io/badge/🎸-Músico_de_formación-21262d?style=flat-square)
+  ![Status](https://img.shields.io/badge/Status-Learning-3fb950?style=flat-square)
+  ![Background](https://img.shields.io/badge/🎸-Professional_Musician-21262d?style=flat-square)
   ![Marketing](https://img.shields.io/badge/📣-Especialista_en_Marketing-8338ec?style=flat-square)
-  ![Python](https://img.shields.io/badge/🐍-Aprendiendo_Python-3572A5?style=flat-square)
+  ![Python](https://img.shields.io/badge/🐍-Python_Enthusiast-3572A5?style=flat-square)
   ![Data Science](https://img.shields.io/badge/📊-Data_Science_Journey-e97132?style=flat-square)
 </div>
 
 ---
 
-## 👋 Sobre mí
+## 👋 About me
 
-¡Hola! Soy **Andres Samboni**, músico de formación y especialista en marketing que decidió explorar el mundo del código y los datos. Creo que la música y la programación tienen más en común de lo que parece: ambas son lenguajes que requieren práctica, paciencia y creatividad.
+Hello! My name is **Andres Samboni**, I'm a professional musician and marketing specialist, and now I've decided to explore the vast world of coding and data. I believe that music and coding have a lot in common: both are languages requiring endless hours of practice, patience and creativity.
 
-Vengo del mundo del marketing, donde aprendí la importancia del trabajo en equipo y en cómo generar valor. Ahora combino esa visión con **Python** y **Data Science** para tomar decisiones más inteligentes basadas en datos, siempre buscando el enfoque humano.
+I also have a background in marketing, where I learned how important it is to lead teams and create value. Now I'm merging my vision with **Python** and **Data Science** to make better decisions based on data, creativity and human value.
 
 ---
 
-## 📈 Aprendiendo
+## 📈 Learning
 
-| Tecnología |  |
+| Technology |  |
 |---|---|
 | 🐍 Python  |
 | 📊 Data Science |
@@ -34,20 +34,20 @@ Vengo del mundo del marketing, donde aprendí la importancia del trabajo en equi
 
 | | |
 |---|---|
-| 🎸 **Música** — Mi primera pasión | 🎮 **Videojuegos** — Gamer en mis tiempos libres |
-| 🎬 **Cine** — Fan del buen guión | 📚 **Literatura** — Siempre con un libro |
+| 🎸 **Music** — My first passion | 🎮 **Videogames** — Gaming through life |
+| 🎬 **Movies** — Always looking for a good plot twist | 📚 **Books** — I swear I really enjoy it |
 
 ---
 
-## 📬 Contacto
+## 📬 Contact
 
 <!-- Añade tus enlaces aquí -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/andresamboni)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andresamboni/?locale=en-US)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://tu-portfolio.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amsam27@gmail.com)
 
 ---
 
 <div align="center">
-  <sub>⭐ Si algo de lo que encuentras aquí te es útil, ¡no dudes en darle una estrella!</sub>
+  <sub>⭐ If you see something useful, Don't just "Starred" at me!</sub>
 </div>
