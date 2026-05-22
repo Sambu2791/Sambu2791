@@ -37,6 +37,12 @@ I also have a background in marketing, where I learned how important it is to le
 | 🎸 **Music** — My first passion | 🎮 **Videogames** — Gaming through life |
 | 🎬 **Movies** — Always looking for a good plot twist | 📚 **Books** — I swear I really enjoy it |
 
+### Mi Actividad reciente en GitHub
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 ---
 
 ## 📬 Contact
