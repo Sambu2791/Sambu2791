@@ -19,4 +19,3 @@ jobs:
           COMMIT_MSG: "Specify a custom commit message"
           MAX_LINES: 10
           COMMIT_NAME: GitHub Activity Readme
-          COMMIT_EMAIL: github-actions[bot]@users.noreply.github.com
