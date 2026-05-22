@@ -40,6 +40,16 @@ I also have a background in marketing, where I learned how important it is to le
 ### Mi Actividad reciente en GitHub
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#7](https://github.com/Sambu2791/miPrimerRepo/pull/7) in [Sambu2791/miPrimerRepo](https://github.com/Sambu2791/miPrimerRepo)
+2. 🔒 Closed issue [#5](https://github.com/Sambu2791/miPrimerRepo/issues/5) in [Sambu2791/miPrimerRepo](https://github.com/Sambu2791/miPrimerRepo)
+3. 💪 Opened PR [#7](https://github.com/Sambu2791/miPrimerRepo/pull/7) in [Sambu2791/miPrimerRepo](https://github.com/Sambu2791/miPrimerRepo)
+4. 🔒 Closed issue [#4](https://github.com/Sambu2791/miPrimerRepo/issues/4) in [Sambu2791/miPrimerRepo](https://github.com/Sambu2791/miPrimerRepo)
+5. ❗ Opened issue [#6](https://github.com/Sambu2791/miPrimerRepo/issues/6) in [Sambu2791/miPrimerRepo](https://github.com/Sambu2791/miPrimerRepo)
+6. ❗ Opened issue [#5](https://github.com/Sambu2791/miPrimerRepo/issues/5) in [Sambu2791/miPrimerRepo](https://github.com/Sambu2791/miPrimerRepo)
+7. ℹ️ Assigned issue [#4](https://github.com/Sambu2791/miPrimerRepo/issues/4) in [Sambu2791/miPrimerRepo](https://github.com/Sambu2791/miPrimerRepo)
+8. ❗ Opened issue [#4](https://github.com/Sambu2791/miPrimerRepo/issues/4) in [Sambu2791/miPrimerRepo](https://github.com/Sambu2791/miPrimerRepo)
+9. 💪 Opened PR [#80](https://github.com/platzi/git-github/pull/80) in [platzi/git-github](https://github.com/platzi/git-github)
+10. 🎉 Merged PR [#3](https://github.com/Sambu2791/miPrimerRepo/pull/3) in [Sambu2791/miPrimerRepo](https://github.com/Sambu2791/miPrimerRepo)
 <!--END_SECTION:activity-->
 
 ---
