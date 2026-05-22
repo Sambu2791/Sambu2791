@@ -39,8 +39,8 @@ I also have a background in marketing, where I learned how important it is to le
 
 ### Mi Actividad reciente en GitHub
 
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:last_update-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
