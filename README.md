@@ -40,7 +40,6 @@ I also have a background in marketing, where I learned how important it is to le
 ### Mi Actividad reciente en GitHub
 
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
 ---
